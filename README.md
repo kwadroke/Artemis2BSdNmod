@@ -1,7 +1,7 @@
 Artemis2BSdNmod
 ===============
 
-Artemis Spaceship Bridge Simulator Mod with new ships using existing models.
+Artemis Spaceship Bridge Simulator Mod for Artemis 2.0 with new ships using existing models.
 This mod was created for BridgeSim.net.
 
 How-to install/use files.
