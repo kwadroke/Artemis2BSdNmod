@@ -1,0 +1,4 @@
+logo512.png, tsnfighter_defuse.png and tsnfighter_specular.png are modified files from the original Artemis Spaceship Bridge Simulator game by Thom Robertson http://artemis.eochu.com
+
+
+
